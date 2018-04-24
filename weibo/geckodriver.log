@@ -1,0 +1,27 @@
+1524552708346	geckodriver	INFO	geckodriver 0.20.1
+1524552708351	geckodriver	INFO	Listening on 127.0.0.1:51592
+1524552709404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0GvjSpitSMtS"
+1524552712508	Marionette	INFO	Enabled via --marionette
+1524552715130	Marionette	INFO	Listening on port 45290
+1524552715234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524552908453	geckodriver	INFO	geckodriver 0.20.1
+1524552908457	geckodriver	INFO	Listening on 127.0.0.1:57125
+1524552908467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KEP5EaWLIqSi"
+1524552908884	Marionette	INFO	Enabled via --marionette
+1524552910388	Marionette	INFO	Listening on port 45769
+1524552910482	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524553038124	geckodriver	INFO	geckodriver 0.20.1
+1524553038128	geckodriver	INFO	Listening on 127.0.0.1:35446
+1524553038136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g7t0TsyHdfQz"
+1524553038554	Marionette	INFO	Enabled via --marionette
+1524553040020	Marionette	INFO	Listening on port 35875
+1524553040040	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524553733119	geckodriver	INFO	geckodriver 0.20.1
+1524553733129	geckodriver	INFO	Listening on 127.0.0.1:60441
+1524553733132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dKPgDpZgYIT0"
+1524553733552	Marionette	INFO	Enabled via --marionette
+1524553735070	Marionette	INFO	Listening on port 43139
+1524553735116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Unix error 2 during operation lstat on file /tmp/rust_mozprofile.dKPgDpZgYIT0 (No such file or directory)
